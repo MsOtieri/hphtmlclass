@@ -1,0 +1,35 @@
+.fruits{
+    border: #9f6f1e 5px dotted;
+    color:burlywood;
+    padding: 20px;
+    margin: 20px;
+    background-color:gainsboro;
+    text-align: center;
+}
+body{
+    background-color: beige;
+}
+.cars{
+    border: #9f6f1e 5px dotted;
+    padding: 20px;
+    margin: 20px;
+    background-color: gainsboro;
+    text-align: right;
+}
+.FRUITS{
+    border: gray 5px dotted;
+    padding: 20px;
+    margin: 20px;
+    background-color: gainsboro;
+    text-align: left;
+}
+img{
+    width: 20%;
+    height: 20%;
+}
+#school{
+    padding: 20px;
+    border: #9f6f1e 5px dotted;
+    background-color: gainsboro;
+    text-align: left;
+}
